@@ -1,4 +1,4 @@
-# 럭비 클럽
+# 럭비 클럽 
 while 1:
     name, age, weight = input().split()
     if name == '#':
