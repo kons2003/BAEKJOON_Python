@@ -1,4 +1,4 @@
-# 집 주소
+# 집 주소 
 while True:
   n = int(input())
   if n == 0:
