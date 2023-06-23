@@ -1,4 +1,4 @@
-#Can you add this?
+# Can you add this?
 n = int(input())
 for i in range(n):
     a, b = map(int, input().split())
