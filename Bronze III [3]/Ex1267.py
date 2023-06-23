@@ -1,4 +1,4 @@
-# 핸드폰 요금
+# 핸드폰 요금 
 n = int(input())
 time = list(map(int, input().split()))
 y = 0
