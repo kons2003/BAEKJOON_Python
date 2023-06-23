@@ -1,4 +1,4 @@
-# 단어 공부
+# 단어 공부 
 words = input().upper()
 unique_words = list(set(words)) 
 
