@@ -1,4 +1,4 @@
-# 더하기 사이클
+# 더하기 사이클 
 n = int(input())
 cnt = 0
 num = n
