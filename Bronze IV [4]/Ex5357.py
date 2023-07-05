@@ -7,4 +7,4 @@ for i in range(n):
     for word in s[1:]:
         if word != c[-1]:
           c.append(word)
-    print(c
+    print(c)
