@@ -1,0 +1,7 @@
+# 치킨 두 마리 (...)
+a,b = map(int,input().split())
+c=int(input())
+if a+b-c*2>=0:
+    print(a+b-c*2)
+else:
+    print(a+b)
